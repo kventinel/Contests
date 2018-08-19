@@ -1,5 +1,8 @@
 #include <bits/stdc++.h>
 
+#define first F
+#define second S
+
 using namespace std;
 
 using ll = long long;
