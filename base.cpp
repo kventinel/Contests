@@ -1,7 +1,7 @@
 #include <bits/stdc++.h>
 
-#define first F
-#define second S
+#define F first
+#define S second
 
 using namespace std;
 
