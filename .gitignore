@@ -5,3 +5,4 @@
 **/*.out
 **/*.ninja
 **/*.cmake
+*.dSYM
