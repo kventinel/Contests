@@ -34,7 +34,7 @@ void calc(int i, __int64_t sum, __int64_t prod) {
             prod *= v[i].F;
             if (sum == prod) {
                 res = sum;
-            } else if (prod < sum && res < sum) {
+            } else if (prod < sum && res < sum && sum % prod <= sum / prod) {
                 --v[i].S;
                 calc(i, sum, prod);
                 ++v[i].S;
