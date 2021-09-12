@@ -6,3 +6,4 @@
 **/*.ninja
 **/*.cmake
 *.dSYM
+*_out.txt
