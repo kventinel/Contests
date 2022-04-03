@@ -1,20 +1,20 @@
 * TODO CodeJam
 ** TODO 2021
-*** TODO Round1A
-**** TODO B
-**** TODO C
-*** TODO Round1B
-*** TODO Round1C
-*** TODO Round2
-*** TODO Round3
+*** TODO Round 1A
+B, C
+*** TODO Round 1B
+*** TODO Round 1C
+*** TODO Round 2
+*** TODO Round 3
 *** TODO Final
 ** TODO 2022
 *** TODO Qualification
-**** TODO E
+E
 * TODO Facebook Hacker Cup
 ** TODO 2021
 *** TODO Round 1
-**** TODO A3
+A3
 *** TODO Round 2
-**** TODO C2
-**** TODO D
+C2, D
+*** TODO Round 3
+*** TODO Final
