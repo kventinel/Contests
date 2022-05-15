@@ -10,8 +10,12 @@ B, C
 ** TODO 2022
 *** TODO Qualification
 E
-*** TODO Round1A
+*** TODO Round 1A
 C2
+*** TODO Round 1B
+*** TODO Round 1C
+*** TODO Round 2
+B2, C2, D
 * TODO Facebook Hacker Cup
 ** TODO 2021
 *** TODO Round 1
